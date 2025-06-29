@@ -21,9 +21,8 @@ Each section includes commented code, example datasets (where applicable), and t
 1. Clone the repository:
    
 git clone https://github.com/NigelMwangi/Deep-learning-core.git
-cd Deep-learning-core
 
-2. Set up your environment (recommended: Conda or venv)
+2. Set up your environment 
 
 3. Install dependencies:
 
